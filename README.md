@@ -7,7 +7,7 @@
 - [블로그](https://velog.io/@sororiri/k8s-kubeadm-%EC%84%A4%EC%B9%98-big2bz1i)
 - [Kubernetes Doc](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 
-![image](https://github.com/user-attachments/assets/8585f5eb-c154-4be3-8c70-2c83520216e3)
+![image](https://github.com/user-attachments/assets/b5513a18-0297-4934-8a4a-c892b245e812)
 
 Kubernetes 구성 요약
 - 1개의 마스터 노드 (control-plane)
